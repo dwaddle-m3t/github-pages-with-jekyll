@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+# This is my custom blog, I am so glad you stopped by for avisit
+While you are here let's discuss the price of eggs in China
